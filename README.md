@@ -1,1 +1,1 @@
-Refactoring to Hooks 
+refactoring with Redux 
